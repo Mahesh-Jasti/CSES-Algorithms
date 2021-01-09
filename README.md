@@ -1,2 +1,2 @@
 # CSES-Algorithms
-Contains codes for problems in CSES website.
+This repository contains codes for problems in CSES website.
